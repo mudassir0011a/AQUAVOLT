@@ -1,0 +1,7 @@
+{
+  "name": "AquaVolt: Civic Issue Reporter",
+  "description": "A unified platform for reporting and tracking water and electricity issues in Navi Mumbai. Users can submit new complaints, track existing ones with a tracking ID, and view a dashboard of civic issues.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
